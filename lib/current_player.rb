@@ -9,3 +9,5 @@ end
 return counter
 
   end
+
+def current_player(board)
